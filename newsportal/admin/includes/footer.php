@@ -1,0 +1,3 @@
+<footer class="footer text-right">
+                   Thank you for visting our site....
+                </footer>
